@@ -1,0 +1,6 @@
+n=eval(input("Enter the numbers:"))
+l=len(n)
+n.sort()
+print(n[0], "is the smallest number.")
+print(n[l-1], "is the largest number.")
+print(n[l-3], "is the third largest number.")

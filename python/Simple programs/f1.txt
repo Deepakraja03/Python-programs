@@ -1,0 +1,4 @@
+Hi this my first data file handling program.
+An apple a day keeps Doctor away.
+A PEN IS MIGHTIER THAN A CAPE.
+Hope Mikaelson is a tribrid.
